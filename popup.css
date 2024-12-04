@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+
+.popup-container {
+    padding: 10px;
+}
+
+.slider-container {
+    margin-top: 20px;
+}
+
+.slider {
+    width: 100%;
+}
+
+.slider-value {
+    margin-top: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+

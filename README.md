@@ -1,2 +1,3 @@
-# scholar-bibtex-copier
-Google Scholar BibTeX copier plugin for Chrome
+# Scholar BibTeX Copier
+
+Google Chrome plugin to automatically copy BibTeX citations to clipboard.
