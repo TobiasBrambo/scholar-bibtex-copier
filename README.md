@@ -9,7 +9,7 @@ When clicking the BibTeX button the following happens:
 
 A slight delay exists here to ensure the contents are properly copied, this delay can be tweaked. This works for all the different ways you can open a BibTeX citation in Google Scholar, and in the Google Scholar PDF Reader (https://chromewebstore.google.com/detail/google-scholar-pdf-reader/dahenjhkoodjbpjheillcadbppiidmhp).
 
-~~The extension is available in the Chrome Web Store:~~
+The extension is available in the Chrome Web Store: https://chromewebstore.google.com/detail/scholar-bibtex-copier/ihccfpbmoeeiibppdgcjjcoahggpfohl
 
 
 ### Custom changes
