@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Scholar BibTeX Copier",
-    "version": "1.6",
+    "name": "Google Scholar BibTeX Copier",
+    "version": "1.6.1",
     "description": "Automatically copies BibTeX citation to clipboard.",
     "permissions": ["scripting", "tabs", "clipboardWrite", "storage"],
     "host_permissions": ["https://scholar.google.com/*", "https://scholar.googleusercontent.com/scholar.bib*"],
